@@ -6,6 +6,9 @@ Most of the times manager has to personally check if the given task to other emp
     - clockouts
     - orders
     - next week overview
+
+- daily routines/durring the shift
+
 - banquets:
     - preparations
     - setup
@@ -13,3 +16,32 @@ Most of the times manager has to personally check if the given task to other emp
     - food delivery
     - deposit
     - payment
+
+- closing the restaurant:
+    - organizing the staff for closing
+    - office work for closing
+    - checking the FOH sideworks
+    - TOAST closing
+    - final walk thru ("rounds")
+    - setting the alarm / locking the store
+
+- TOAST POS deep dive
+- TOAST WEB deep dive
+    - toast web
+    - toast Payroll
+
+- opening the store
+
+- know your work place:
+    - office
+    - store
+    - items/equipment locations
+    - kitchen knowladge
+    - bar knowladge
+
+- building links
+- HotSchedules
+- MarginEdge
+- Inventory
+- orders
+- contacts
