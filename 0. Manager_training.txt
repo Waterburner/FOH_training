@@ -2,3 +2,14 @@ Manager training
 Manager is the person who does everything. And since it's not possible for one person to do everything then manager MANAGES the people and makes sure that everything is done.
 Most of the times manager has to personally check if the given task to other employee was done completely and propersly.
 
+- end of the week:
+    - clockouts
+    - orders
+    - next week overview
+- banquets:
+    - preparations
+    - setup
+    - orders control
+    - food delivery
+    - deposit
+    - payment
