@@ -47,3 +47,7 @@ Most of the times manager has to personally check if the given task to other emp
 - Inventory
 - orders
 - contacts
+- troubleshooting: 
+    - printers
+    - TVs
+    - offline (network interuptions)
