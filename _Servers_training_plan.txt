@@ -1,0 +1,22 @@
+Servers needs to be trained:
+
+1. Toast overview. Manipulatoins etc
+ - mods
+ - check manipulations
+ - sending orders (courses, no makes etc)
+ - printers (intermediate only lvl)
+
+2. Host stand (seating people, marking reservations, taking reservations, DD orders) 
+
+3. Bar class:
+ - spirits (whiskey, gin, vodka, cordails)
+ - wines (red, white, sparkling, ports)
+ - beer (types, colors, flavours)
+
+4. Kitchen:
+ - menu  
+ - allergies
+ - what/how we do it
+
+5. Payroll website (how it works, what's there)
+ - payroll as it is (pay per period, paystubs, etc)

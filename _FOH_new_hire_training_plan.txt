@@ -1,0 +1,29 @@
+1. Server training
+	- Payroll
+	- Toast POS
+	- Host stand
+	- Bar
+	- Kitchen
+	- Open/Close
+
+2. Bartender training
+	- LBW knowladge
+	- Well
+	- Open/Close
+	- Toast POS
+	- Kitchen
+
+3. Hostess training
+	- Aloha
+	- Floor plan
+	- Toast POS
+	- Kitchen
+	- Menu (general)
+	- Open/Close
+
+4. Support training
+	- Floor plan
+	- Open/Close
+	- Bar support
+	- Food runner support
+	
